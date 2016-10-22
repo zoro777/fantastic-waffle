@@ -9,7 +9,7 @@ int main(){
 	while(t--){
 		int n;
 		scanf("%d",&t);
-		int co=0;
+		int coooo=0;
 		map<ll,ll> m;
 		ll x;
 		for(int i=0;i<n;i++){

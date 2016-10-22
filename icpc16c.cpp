@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define mod 1000000007
+#define mod 100000007
 #define pb push_back
 #define mp make_pair
 #define S second

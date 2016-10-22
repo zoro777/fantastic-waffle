@@ -9,6 +9,8 @@ using namespace std;
 
 typedef long long ll;
 
+#define ld long double
+
 int main(){
 	int t;
 	cin>>t;
